@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About
+title: 筆者について
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# ２Bの生徒
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+ * アミト
+ 　　ウェブサイトの作り、役に立つリソース
+ * パウロ
+ 　　デザイン、日本旅行
+ * スティーブ
+ 　　漢字：漢字の覚えやすい方法
+   1. 一般的な部首
+   2. 音読みと部首の関係
+   3. 面白い話を作って簡単に書き方を暗記する
+ * ステファニー
+ 　　文法
