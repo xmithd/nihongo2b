@@ -7,8 +7,13 @@ permalink: 役に立つリソース
 
 * [NHK easy news](https://www3.nhk.or.jp/news/easy/)  やさしい日本語で書いたニュースです。ふりがなが使ってるサイトなので新米の学生も読めます。
 
-* [happylilac.net](http://happylilac.net/syogaku.html) このウェブサイトで小学校や中学の漢字を練習できます。プリントをダウンロードをして色々文法も勉強できます。
+* [happylilac.net](http://happylilac.net/syogaku.html)  このウェブサイトで小学校や中学の漢字を練習できます。プリントをダウンロードをして色々文法も勉強できます。
 
-* [Yomichan](https://foosoft.net/projects/yomichan/) YomichanはFirefoxとChromeのプラグインです。日本語のウェブサイトで簡単に言葉を調べることができます。
+* [Yomichan](https://foosoft.net/projects/yomichan/)  YomichanはFirefoxとChromeのプラグインです。日本語のウェブサイトで簡単に言葉を調べることができます。
+
+* [imiwa?](http://www.imiwaapp.com/)  iPhoneとiPadの辞書のアップリです。ロシア語やスペイン語やフランス語やドイツ語などあります。たくさん例があって役に立つと思います。
+
+* [WaniKani](https://www.wanikani.com/)  ワニカニは漢字を暗記するようにアップリです。少し高いですが頑張ったら漢字や言葉などの意味と読み方覚えやすくなります。
+
 
 続く...
