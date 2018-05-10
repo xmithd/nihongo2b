@@ -34,7 +34,7 @@ This section is organized into three parts in order to be helpful to kanji learn
 Japanese Kanji are made using a method similar to toy Legos. In other words, each one is made from many different parts that, when assembled together, form pictographs representing one complete concept. Whether they represent the meaning or whether they determine the pronunciation, these parts, known as radicals, if used to make useful explanations or funny stories, can make a kanji easy to remember.
 
 <p align="center">
-  <img src="assets/kanji/image002.png" alt="kanji"/>
+  <img src="assets/kanji/image002.png" alt="sanzui"/>
 </p>
 
 氵：「さんずい」という部首は、水に関するという意味です。それで、さんずいで作った漢字は、ほとんど、水についての意味になります。話を作りたかったら、水を使ってください。それが分かったら、漢字の意味を覚えることができます。
@@ -43,7 +43,7 @@ The radical called "sanzui" carries a meaning relating to the kanji 「水」(wa
 
 
 <p align="center">
-  <img src="assets/kanji/image003.png" alt="kanji"/>
+  <img src="assets/kanji/image003.png" alt="tehen"/>
 </p>
 
 扌：「てへん」という部首は、手に関するという意味です。それで、てへんで作った漢字は、ほとんど、手についての意味になります。話を作りたかったら、手を使ってください。それが分かったら、漢字の意味を覚えることができます。
