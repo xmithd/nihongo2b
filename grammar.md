@@ -8,3 +8,4 @@ To study grammar, one must practice.
 
 * [Verb Conjugation](/nihongo2b/assets/Verb_conjugation.pdf)　レッスン - Lesson
 * [Verb Conjugation practice](/nihongo2b/assets/Verb_conjugation_practice.pdf)　練習 - Practice
+* [Adjectives](/nihongo2b/assets/Adjectives.pdf)　形容詞　- Adjectives
