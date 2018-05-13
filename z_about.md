@@ -18,6 +18,8 @@ permalink: 筆者について
    2. 漢字を覚えやすい語
    3. 話を作るためのフォーム
 
+協力：<ruby>祐佳吏<rt>ゆかり</rt></ruby>先生
+
 <p align="center">
- <img src="assets/the_team.jpg" alt="CLC 2B - April 2018" />
+  <img src="assets/the_team.jpg" alt="CLC 2B - April 2018" />
 </p>

@@ -79,6 +79,9 @@ The radical called "tsuchihen" carries a meaning relating to the kanji 「土」
 
 Imagine there are 5 people speaking 5 different <span class="highlight">LANGUAGES</span> with their <span class="highlight">MOUTHS</span>. Everyone is saying the word "<span class="highlight">GO</span>" with their <span class="highlight">MOUTHS</span> (not with their nose nor with their fingers) in their own <span class="highlight">LANGUAGE</span>, but since no one can understand each other, no one will <span class="highlight">GO</span> anywhere.
 
+<p align="center">
+  <img src="assets/kanji/image004.png" alt="泣"/>
+</p>
 
 泣：  
 部首：氵、立  
