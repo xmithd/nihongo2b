@@ -106,7 +106,7 @@ Kusatsu is situated at an altitude of 1200 meters above sea level in the mountai
 </p>
 #### 2. <ruby>黒川<rt>くろかわ</rt></ruby>温泉、<ruby>熊本県<rt>くまもとけん</rt></ruby>
 
-黒川温泉は、<ruby>阿蘇山<rt>あそさん</rt></ruby>から<ruby>北約<rt>きたやく</rt></ruby>20km 、<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>に<ruby>位置<rt>いち</rt></ruby>する日本<ruby>最高</rt>さいこう</rt></ruby>の<ruby>魅力的<rt>みりょくてき</rt></ruby>な温泉<ruby>街<rt>がい</rt></ruby>の一つです。黒川<ruby>町<rt>まち</rt></ruby>は<ruby>快適<rt>かいてき</rt></ruby>さと<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するため<ruby>努力<rt>どりょく</rt></ruby>をしています。黒川には<ruby>巨大<rt>きょだい</rt></ruby>なコンクリートホテルやネオン<ruby>広告<rt>こうこく</rt></ruby>や<ruby>騒々<rt>そうぞう</rt></ruby>しい<ruby>色<rt>いろ</rt></ruby>がないので、<ruby>他<rt>ほか</rt></ruby>のリゾートタウン町と<ruby>似<rt>に</rt></ruby>ていません。  
+黒川温泉は、<ruby>阿蘇山<rt>あそさん</rt></ruby>から<ruby>北約<rt>きたやく</rt></ruby>20km 、<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>に<ruby>位置<rt>いち</rt></ruby>する日本<ruby>最高<rt>さいこう</rt></ruby>の<ruby>魅力的<rt>みりょくてき</rt></ruby>な温泉<ruby>街<rt>がい</rt></ruby>の一つです。黒川<ruby>町<rt>まち</rt></ruby>は<ruby>快適<rt>かいてき</rt></ruby>さと<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するため<ruby>努力<rt>どりょく</rt></ruby>をしています。黒川には<ruby>巨大<rt>きょだい</rt></ruby>なコンクリートホテルやネオン<ruby>広告<rt>こうこく</rt></ruby>や<ruby>騒々<rt>そうぞう</rt></ruby>しい<ruby>色<rt>いろ</rt></ruby>がないので、<ruby>他<rt>ほか</rt></ruby>のリゾートタウン町と<ruby>似<rt>に</rt></ruby>ていません。  
 
 その<ruby>代<rt>か</rt></ruby>わりに、黒川の<ruby>街並<rt>まちな</rt></ruby>みは<ruby>自然<rt>しぜん</rt></ruby>の色や<ruby>材質<rt>ざいしつ</rt></ruby>、<ruby>木造建築物<rt>もくぞうけんちくぶつ</rt></ruby>、<ruby>土壁<rt>どへき</rt></ruby>、<ruby>石<rt>いし</rt></ruby>の<ruby>階段<rt>かいだん</rt></ruby>、川が<ruby>流<rt>なが</rt></ruby>れているおきます。<ruby>森林地帯<rt>しんりんちたい</rt></ruby>の<ruby>谷<rt>たに</rt></ruby>に位置する町の<ruby>中心部<rt>ちゅうしんぶ</rt></ruby>は<ruby>徒歩<rt>とほ</rt></ruby>で<ruby>探索<rt>たんさく</rt></ruby>しやすいですが、<ruby>中央<rt>ちゅうおう</rt></ruby>に位置しない<ruby>少数<rt>しょうすう</rt></ruby>の<ruby>旅館<rt>りょかん</rt></ruby>は<ruby>例外<rt>れいがい</rt></ruby>です。
 
@@ -177,6 +177,9 @@ Daisetsuzan is Hokkaido's largest national park. It preserves a mountainous area
 Kamikochi is a popular resort in the Northern Japan Alps of Nagano Prefecture, offering some of Japan's most spectacular mountain scenery. It is open from mid/late April until November 15 and shuts down during winter.
 
 ## <a name="祭"></a><ruby>祭<rt>まつり</rt></ruby>
+<p align="center">
+  <img src="assets/travel/image011.jpg" alt="富士山、山梨県と静岡県"/>
+</p>
 
 Coming soon
 
