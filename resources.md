@@ -27,7 +27,7 @@ iPhone and iPad dictionary app. It has translations in Russian, English, French,
 
 * [WaniKani](https://www.wanikani.com/)  
 ワニカニは漢字を暗記するようにアップリです。少し高いですが頑張ったら漢字や言葉などの意味と読み方覚えやすくなります。  
-WaniKani is an app to memorize kanji. Despite being a little expensive, remembering the kanji and vocabulary words becomes easy to remember.
+WaniKani is an app to memorize kanji. Despite being a little expensive, remembering the kanji and vocabulary words becomes easier.
 
 * [FMかのや](http://radio.garden/live/kanoya/0033fm/)  
 鹿児島の鹿屋市のラジオをよく聞いたら日本語の理解が上がるかもしれない。もちろん、他の日本のラジオも面白いです。  

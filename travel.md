@@ -82,7 +82,70 @@ Fuji-Q Highland (富士急) is one of Japan's most popular amusement parks, loca
 
 ## <a name="温泉"></a><ruby>温泉<rt>おんせん</rt></ruby>
 
-Coming soon
+<p align="center">
+  <img src="assets/travel/image005.jpg" alt="温泉、群馬県"/>
+</p>
+
+#### 1. <ruby>草津<rt>くさつ</rt></ruby>温泉、<ruby>群馬県<rt>ぐんまけん</rt></ruby>
+
+草津温泉は、日本で<ruby>最<rt>もっと</rt></ruby>も<ruby>有名<rt>ゆうめい</rt></ruby>な温泉<ruby>地帯<rt>ちたい</rt></ruby>のひとつであり、<ruby>恋煩<rt>こいわずら</rt></ruby>い<ruby>以外<rt>いがい</rt></ruby>あらゆる<ruby>病気<rt>びょうき</rt></ruby>を<ruby>治療<rt>ちりょう</rt></ruby>するといわれる<ruby>高品質<rt>こうひんしつ</rt></ruby>の温泉<ruby>水<rt>みず</rt></ruby>が<ruby>大量<rt>たいりょう</rt></ruby>に<ruby>恵<rt>めぐ</rt></ruby>まれています。
+<ruby>何<rt>なん</rt>世紀<rt>せいき</rt></ruby>にもわたって温泉地として知られていた草津の<ruby>名声<rt>めいせい</rt></ruby>は、1800<ruby>年代<rt>ねんだい</rt></ruby><ruby>後期<rt>こうき</rt></ruby>に<ruby>皇室<rt>こうしつ</rt></ruby>に<ruby>勤<rt>つと</rt></ruby>めたドイツの<ruby>医師<rt>いし</rt></ruby>によってさらに<ruby>拡大<rt>かくだい</rt></ruby>されました。彼は水の<ruby>健康上<rt>けんこうじょう</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>のために草津を<ruby>勧<rt>すす</rt></ruby>めました。群馬県の<ruby>山々<rt>やまやま</rt></ruby>の<ruby>標高<rt>ひょうこう</rt></ruby>1200mの草津に<ruby>位置<rt>いち</rt></ruby>し、冬にスキーがあり、<ruby>一年中<rt>いちねんじゅう</rt></ruby>ハイキングも温泉<ruby>浴<rt>よく</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせて<ruby>楽<rt>たの</rt></ruby>しむことができます。
+
+
+Kusatsu Onsen is one of Japan's most famous hot spring resorts and is blessed with large volumes of high quality hot spring water said to cure every illness but lovesickness.
+
+Well known as a hot spring resort for many centuries, Kusatsu's fame was further extended by German doctor Erwin von Baelz, who served at the imperial court in the late 1800s and recommended Kusatsu for its water's health benefits.
+
+Kusatsu is situated at an altitude of 1200 meters above sea level in the mountains of Gunma Prefecture, and offers skiing in winter and hiking during the rest of the year to be enjoyed in combination with hot spring bathing.
+
+
+[http://www.kusatsu-onsen.ne.jp/](http://www.kusatsu-onsen.ne.jp/)
+
+<p align="center">
+  <img src="assets/travel/image006.jpg" alt="黒川温泉、熊本県"/>
+</p>
+#### 2. <ruby>黒川<rt>くろかわ</rt></ruby>温泉、<ruby>熊本県<rt>くまもとけん</rt></ruby>
+
+黒川温泉は、<ruby>阿蘇山<rt>あそさん</rt></ruby>から<ruby>北約<rt>きたやく</rt></ruby>20km 、<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>に<ruby>位置<rt>いち</rt></ruby>する日本<ruby>最高</rt>さいこう</rt></ruby>の<ruby>魅力的<rt>みりょくてき</rt></ruby>な温泉<ruby>街<rt>がい</rt></ruby>の一つです。黒川<ruby>町<rt>まち</rt></ruby>は<ruby>快適<rt>かいてき</rt></ruby>さと<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するため<ruby>努力<rt>どりょく</rt></ruby>をしています。黒川には<ruby>巨大<rt>きょだい</rt></ruby>なコンクリートホテルやネオン<ruby>広告<rt>こうこく</rt></ruby>や<ruby>騒々<rt>そうぞう</rt></ruby>しい<ruby>色<rt>いろ</rt></ruby>がないので、<ruby>他<rt>ほか</rt></ruby>のリゾートタウン町と<ruby>似<rt>に</rt></ruby>ていません。  
+
+その<ruby>代<rt>か</rt></ruby>わりに、黒川の<ruby>街並<rt>まちな</rt></ruby>みは<ruby>自然<rt>しぜん</rt></ruby>の色や<ruby>材質<rt>ざいしつ</rt></ruby>、<ruby>木造建築物<rt>もくぞうけんちくぶつ</rt></ruby>、<ruby>土壁<rt>どへき</rt></ruby>、<ruby>石<rt>いし</rt></ruby>の<ruby>階段<rt>かいだん</rt></ruby>、川が<ruby>流<rt>なが</rt></ruby>れているおきます。<ruby>森林地帯<rt>しんりんちたい</rt></ruby>の<ruby>谷<rt>たに</rt></ruby>に位置する町の<ruby>中心部<rt>ちゅうしんぶ</rt></ruby>は<ruby>徒歩<rt>とほ</rt></ruby>で<ruby>探索<rt>たんさく</rt></ruby>しやすいですが、<ruby>中央<rt>ちゅうおう</rt></ruby>に位置しない<ruby>少数<rt>しょうすう</rt></ruby>の<ruby>旅館<rt>りょかん</rt></ruby>は<ruby>例外<rt>れいがい</rt></ruby>です。
+
+Kurokawa Onsen is one of Japan's most attractive hot springtowns, located in the middle of Kyushu about 20 kilometers north of Mount Aso. Well coordinated efforts by the town to maintain a pleasant, traditional atmosphere have kept Kurokawa free of the massive concrete hotels, neon advertisements and loud colors that are encountered in many of Japan's other resort towns.
+
+Instead, Kurokawa's townscape is dominated by natural colors and materials, wooden buildings, earthen walls, stone stairs and a river flowing through. The town center, located in a forested valley, is easily explored on foot, except for a few ryokan which are located less centrally.
+
+[www.yamamizuki.com](www.yamamizuki.com)
+
+
+<p align="center">
+  <img src="assets/travel/image007.jpg" alt="城崎温泉、兵庫県"/>
+</p>
+#### 3.	<ruby>城崎<rt>きのさき</rt></ruby>温泉、<ruby>兵庫<rt>ひょうご</rt>県
+
+<ruby>伝説<rt>でんせつ</rt></ruby>によると、城崎の<ruby>沼地<rt>ぬまち</rt></ruby>でコウノトリは<ruby>傷<rt>きず</rt></ruby>を<ruby>治癒<rt>ちゆ</rt></ruby>するために<ruby>浴<rt>あ</rt></ruby>びたということです。 その<ruby>後<rt>あと</rt></ruby>、この<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>癒<rt>いや</rt></ruby>しの水を<ruby>利用<rt>りよう</rt></ruby>するために<ruby>色々<rt>いろいろ</rt></ruby>な<ruby>浴場<rt>よくじょう</rt></ruby>が<ruby>建<rt>た</rt></ruby>てられました。 それ<ruby>以来<rt>いらい</rt></ruby>、<ruby>関西<rt>かんさい</rt></ruby>で城崎がトップの温泉地になっています。
+<ruby>現在<rt>げんざい</rt></ruby>、このエリアに<ruby>数多<rt>かずおお</rt></ruby>く温泉<ruby>旅館<rt>りょかん</rt></ruby>があります、しかし、<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>観光<rt>かんこう</rt></ruby>スポットは7つの<ruby>大浴場<rt>だいよくじょう</rt></ruby>です。 <ruby>街中<rt>まちなか</rt></ruby>には、<ruby>美<rt>うつく</rt></ruby>しい<ruby>足湯<rt>あしゆ</rt></ruby>と<ruby>噴水<rt>ふんすい</rt></ruby>も<ruby>散在<rt>さんざい</rt></ruby>しています。
+
+Legend has it that storks would bathe in the marshes of Kinosaki to heal their wounds. Later, bath houses were built over these very sites to take advantage of the healing waters. Since then Kinosaki has become a top onsen destination in the Kansai region.
+Nowadays there are numerous ryokan in the area, all with their own baths, but the real draw to Kinosaki are its seven public bath houses (sotoyu). Also scattered throughout town are some beautiful foot baths (ashiyu) and fountains.
+
+他の素晴らしい<ruby>経験<rt>けいけん</rt></ruby>
+
+* 箱根温泉、神奈川県  
+  [http://www.hakone.or.jp/en/](http://www.hakone.or.jp/en/)
+
+* 由布院温泉、大分県  
+  [yufuin-ublhotel.jp/en/](yufuin-ublhotel.jp/en/)
+
+* 別府温泉  
+  [http://www.gokuraku-jigoku-beppu.com](http://www.gokuraku-jigoku-beppu.com)
+
+* 登別温泉、北海道  
+  [http://www.takimotokan.co.jp/english/](http://www.takimotokan.co.jp/english/)
+
+* 道後温泉、松山市、愛媛県  
+  [dogo.jp](dogo.jp)
+
+
 
 ## <a name="ハイキング"></a>ハイキング
 
