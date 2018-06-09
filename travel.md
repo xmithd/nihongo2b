@@ -16,7 +16,7 @@ permalink: 日本旅行
 
 ### [<ruby>温泉<rt>おんせん</rt></ruby>](#温泉)
 
-### [ハイキング](#ハイキング)
+### [ハイキング](#hiking)
 
 ### [<ruby>祭<rt>まつり</rt></ruby>](#祭)
 
@@ -147,9 +147,34 @@ Nowadays there are numerous ryokan in the area, all with their own baths, but th
 
 
 
-## <a name="ハイキング"></a>ハイキング
+## <a name="hiking"></a>ハイキング
 
-Coming soon
+<p align="center">
+  <img src="assets/travel/image008.jpg" alt="富士山、山梨県と静岡県"/>
+</p>
+#### 1. <ruby>富士山<rt>ふじさん</rt></ruby>、<ruby>山梨県<rt>やまなしけん</rt></ruby>と<ruby>静岡県<rt>しずおかけん</rt></ruby>、7月から9月10日まで
+
+日本で<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>く、最も<ruby>有名<rt>ゆうめい</rt></ruby>な山、富士山を<ruby>登<rt>のぼ</rt></ruby>るのは<ruby>一生<rt>いっしょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になるでしょう。 山は<ruby>遠<rt>とお</rt></ruby>くから<ruby>魅力的<rt>みりょくてき</rt></ruby>に<ruby>見<rt>み</rt></ruby>えるかもしれませんが、<ruby>晴<rt>は</rt></ruby>れた日の<ruby>景色<rt>けしき</rt></ruby>と、<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>何百<rt>なにひゃく</rt></ruby><ruby>登山者<rt>とざんしゃ</rt></ruby>の<ruby>早朝<rt>そうちょう</rt></ruby>の<ruby>登山<rt>とざん</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>有益<rt>ゆうえき</rt></ruby>です
+
+Climbing Mount Fuji (3776 meters), Japan's highest and most prominent mountain, can make for lifelong memories. The mountain may look more attractive from afar but the views on clear days and the experience of climbing through the early morning hours among hundreds of hikers from across the world are very rewarding.
+
+<p align="center">
+  <img src="assets/travel/image009.jpg" alt="大雪山、北海道"/>
+</p>
+#### 2. <ruby>大雪山<rt>だいせつざん</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>、7月から9月10日
+
+大雪山は北海道<ruby>最大<rt>さいだい</rt></ruby>の<ruby>国立<rt>こくりつ</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>です。 日本の<ruby>小規模<rt>しょうきぼ</rt></ruby>な<ruby>都道府県<rt>とどうふけん</rt></ruby>よりも<ruby>大<rt>おお</rt></ruby>きい、<ruby>事実上手<rt>じじつじょうて</rt></ruby>つかずの<ruby>荒野<rt>こうや</rt></ruby>の<ruby>山間部<rt>さんかんぶ</rt></ruby>を<ruby>保<rt>たも</rt></ruby>っています。 ハイカーや<ruby>野外愛好家<rt>やがいあいこうか</rt></ruby>や<ruby>鹿<rt>しか</rt></ruby>のための<ruby>楽園<rt>らくえん</rt></ruby>であり、毎年、<ruby>秋<rt>あき</rt></ruby>の<ruby>紅葉<rt>こうよう</rt></ruby>や<ruby>雪<rt>ゆき</rt></ruby>を<ruby>見<rt>み</rt></ruby>るのも日本で<ruby>初<rt>はじ</rt></ruby>めてみられます。
+
+Daisetsuzan is Hokkaido's largest national park. It preserves a mountainous area of virtually unspoiled wilderness, which is larger than some of Japan's smaller prefectures. It is a paradise for hikers, outdoor lovers and deers, it is also the first place in Japan to see fall colors and snow each autumn.
+
+<p align="center">
+  <img src="assets/travel/image010.jpg" alt="上高地、長野県"/>
+</p>
+#### 3. <ruby>上高地<rt>かみこうち</rt></ruby>、<ruby>長野県<rt>ながのけん</rt></ruby>、<ruby>春<rt>はる</rt></ruby>、<ruby>夏<rt>なつ</rt></ruby>、<ruby>秋<rt>あき</rt></ruby>
+
+上高地は長野県北アルプスの<ruby>人気<rt>にんき</rt></ruby>リゾートで、日本で<ruby>最<rt>もっと</rt></ruby>も<ruby>雄大<rt>ゆうだい</rt></ruby>な山の<ruby>景色<rt>けしき</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>しています。 4<ruby>月中<rt>がつちゅう</rt></ruby><ruby>旬<rt>しゅん</rt></ruby>〜11月15日まで<ruby>営業<rt>えいぎょう</rt></ruby>しており、<ruby>冬期<rt>とうき</rt></ruby>は<ruby>休業<rt>きゅうぎょう</rt></ruby>となります。
+
+Kamikochi is a popular resort in the Northern Japan Alps of Nagano Prefecture, offering some of Japan's most spectacular mountain scenery. It is open from mid/late April until November 15 and shuts down during winter.
 
 ## <a name="祭"></a><ruby>祭<rt>まつり</rt></ruby>
 
