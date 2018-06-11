@@ -177,11 +177,38 @@ Daisetsuzan is Hokkaido's largest national park. It preserves a mountainous area
 Kamikochi is a popular resort in the Northern Japan Alps of Nagano Prefecture, offering some of Japan's most spectacular mountain scenery. It is open from mid/late April until November 15 and shuts down during winter.
 
 ## <a name="祭"></a><ruby>祭<rt>まつり</rt></ruby>
+
 <p align="center">
-  <img src="assets/travel/image011.jpg" alt="富士山、山梨県と静岡県"/>
+  <img src="assets/travel/image011.jpg" alt="祇園祭、京都"/>
 </p>
 
-Coming soon
+#### 1. <ruby>祇園祭<rt>ぎおん</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>
+
+<ruby>日本<rt>にほん</rt></ruby><ruby>三大<rt>さんだい</rt></ruby>祭のひとつに<ruby>挙<rt>あ</rt></ruby>げられる<ruby>京都市東山区<rt>ひがしやまく</rt></ruby>にある<ruby>八坂<rt>やさか</rt></ruby><ruby>神社<rt>じんじゃ</rt></ruby>の<ruby>祭礼<rt>さいれい</rt></ruby>。<ruby>7月<rt>がつ</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えると、京都の町は一年で<ruby>最<rt>もっと</rt></ruby>も<ruby>華<rt>はな</rt></ruby>やぐ。9<ruby>世紀<rt>せいき</rt></ruby>より<ruby>続<rt>つづ</rt></ruby>く1100<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>、1ヶ月に<ruby>渡<rt>わた</rt></ruby>る<ruby>祭事<rt>さいじ</rt></ruby>の<ruby>豪華<rt>ごうか</rt></ruby>さや<ruby>壮大<rt>そうだい</rt></ruby>さは、<ruby>世界<rt>かい</rt></ruby>でも<ruby>有数<rt>ゆうすう</rt></ruby>であり<ruby>国内外<rt>こくないがい</rt></ruby>より<ruby>毎年<rt>まいとし</rt></ruby><ruby>数十<rt>すうじゅう</rt></ruby><ruby>万人<rt>まんにん</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>める。
+この祭りのハイライトは、「<ruby>山鉾<rt>やまほこ</rt></ruby><ruby>巡行<rt>じゅんこう</rt></ruby>」。2014年より<ruby>約半世紀<rt>やくはんせいき</rt></ruby>ぶりに<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>姿<rt>すがた</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>り、「<ruby>前祭<rt>さきまつり</rt></ruby>（7月17日）」と「<ruby>後祭<rt>あとまつり</rt></ruby>（24日）」の二度に<ruby>分<rt>わ</rt></ruby>かれて<ruby>合計<rt>ごうけい</rt></ruby>33<ruby>基<rt>き</rt></ruby>の山鉾が<ruby>京都<rt>きょうと</rt></ruby>の町を巡行する。
+山鉾と<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>山車<rt>だし</rt></ruby>は、<ruby>最大<rt>さいだい</rt></ruby>12トンにも<ruby>達<rt>たっ</rt></ruby>し、お<ruby>囃子<rt>はやし</rt></ruby>が<ruby>乗<rt>の</rt></ruby>る<ruby>屋台<rt>やたい</rt></ruby>に<ruby>木製<rt>もくせい</rt></ruby>の<ruby>車輪<rt>しゃりん</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えて<ruby>移動<rt>いどう</rt></ruby>する。<ruby>数百年前<rt>すうひゃくねんまえ</rt></ruby>に<ruby>世界中<rt>せかいじゅう</rt></ruby>より<ruby>集<rt>あつ</rt></ruby>められた<ruby>至宝<rt>しほう</rt></ruby>をまとうその<ruby>姿<rt>すがた</rt></ruby>は、まさに「<ruby>動<rt>うご</rt></ruby>く<ruby>美術館<rt>びじゅつかん</rt></ruby>」。<ruby>現存<rt>げんそん</rt></ruby>する山鉾の33基のうち29基は<ruby>国<rt>くに</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby><ruby>有形<rt>ゆうけい</rt></ruby><ruby>民俗<rt>みんぞく</rt></ruby><ruby>文化財<rt>ぶんかざい</rt></ruby>に<ruby>指定<rt>してい</rt></ruby>され、「京都<ruby>祇園<rt>ぎおん</rt></ruby>祭の山鉾<ruby>行事<rt>ぎょうじ</rt></ruby>」はユネスコ<ruby>文化<rt>ぶんか</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>にされている。
+
+Gion Matsuri is an annual festival of the Yasaka Shrine located in Higashiyama of Kyoto, and is one of the three biggest festivals of Japan. When July comes, it is the most vibrant and festive month for Kyoto. The month-long celebrations with its over 1,100 year-long history makes the festival a rare occurrence even for world standards, attracting hundreds of thousands of visitors from all across the country and abroad. The highlight of the festival is the "_Yamahoko Junko_". From 2014, the festival format has returned to its original form for the first time in half a century, with the total of 33 _Yamahoko_ floats separated into parading during _Sakimatsuri_ (July 17th) and _Atomatsuri_ (July 24th). The floats known as _Yamaboko_ reach up to 12 tons in weight, and are pulled on wooden wheels with the chanting musicians aboard. The sight of them covered with few-hundred year-old treasures gathered from all over the world, is no short from a moving museum. 29 out of the 33 remaining floats are designated as the nation's Important Tangible Folk Cultural Property, and the _Yamaboko_ events of Gion Festival are recognized as a UNESCO cultural heritage.
+
+<p align="center">
+  <img src="assets/travel/image012.jpg" alt="阿波踊り祭"/>
+</p>
+
+#### 2. <ruby>阿波<rt>あわ</rt></ruby><ruby>踊<rt>おど</rt></ruby>り祭<ruby>徳島市<rt>とくしまし</rt></ruby>８月12日から8月15日まで
+
+「踊るあほに<ruby>見<rt>み</rt></ruby>るあほ、<ruby>同<rt>おな</rt></ruby>じあほなら踊らにゃ」、これは日本で<ruby>唱<rt>とな</rt></ruby>えられた<ruby>伝統的<rt>でんとうてき</rt></ruby>なフレーズで、 阿波踊りはすべてについてです：見ることよりも<ruby>参加<rt>さんか</rt></ruby>して踊る<ruby>方<rt>ほう</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しいです！
+<ruby>参加者<rt>さんかしゃ</rt></ruby>は、<ruby>最高<rt>さいこう</rt></ruby>のダンスを<ruby>競<rt>きそ</rt></ruby>うチームを<ruby>形成<rt>けいせい</rt></ruby>します。 <ruby>誰<rt>だれ</rt></ruby>でも<ruby>太鼓<rt>たいこ</rt></ruby>と<ruby>笛<rt>ふえ</rt></ruby>のリズムに<ruby>夢中<rt>むちゅう</rt></ruby>になることができます。 ２<ruby>種類<rt>しゅるい</rt></ruby>のダンススタイルがあります、<ruby>男<rt>おとこ</rt></ruby>踊りはダイナミックで<ruby>面白<rt>おもしろ</rt></ruby>い踊りですが、<ruby>女<rt>おんな</rt></ruby>踊りは<ruby>華<rt>はな</rt></ruby>やかでエレガントな踊りです。徳島<ruby>市<rt>し</rt></ruby>は祭りの<ruby>間<rt>あいだ</rt></ruby>にとても<ruby>活気<rt>かっき</rt></ruby>が<ruby>溢<rt>あふ</rt></ruby>れていて、<ruby>確<rt>たし</rt></ruby>かに踊ることを<ruby>喜<rt>よろこ</rt></ruby>ぶでしょう。
+
+Odoru aho ni miru aho. Onaji aho nara odoranya！Dancing fools and watching fools. Both are the same fools, so why not dance?!) This is a traditional phrase chanted in Japan and it is what Awa Odori is all about: it is more fun to join and dance than to watch. The dancers form teams to compete for the best dance. Anyone can go crazy dancing to the rhythm of drums, bells and flutes. There are two dancing styles: Otoko-odori (male dancing) which is dynamic and funny and Onna-odori (female dancing) which is sultry and elegant. You will surely be delighted dancing in the city of tokushima which gets very lively during the festival.
+
+<p align="center">
+  <img src="assets/travel/image013.jpg" alt="ねぶた祭、青森"/>
+</p>
+
+#### 3. ねぶた祭、<ruby>青森<rt>あおもり</rt></ruby>市8月2日から８月7日まで
+
+ねぶた祭りは日本の中でも、トップクラスの大きな祭りだ。「ねぶた」といわれる<ruby>巨大<rt>きょだい</rt></ruby>な<ruby>人形<rt>にんぎょう</rt></ruby><ruby>灯籠<rt>とうろう</rt></ruby>が<ruby>街<rt>まち</rt></ruby>を<ruby>練<rt>ね</rt></ruby>り<ruby>歩<rt>ある</rt></ruby>く祭りで、<ruby>歌舞伎<rt>かぶき</rt></ruby>の<ruby>名場面<rt>めいばめん</rt></ruby>や<ruby>歴史物語<rt>れきしものがたり</rt></ruby>、<ruby>神話<rt>しんわ</rt></ruby>などを<ruby>題材<rt>だいざい</rt></ruby>に<ruby>毎年<rt>まいとし</rt></ruby><ruby>新<rt>あら</rt></ruby>たに<ruby>制作<rt>せいさく</rt></ruby>され、その<ruby>大<rt>おお</rt></ruby>きさは<ruby>幅<rt>はば</rt></ruby>9ｍ、<ruby>奥行<rt>おくゆ</rt></ruby>き7ｍ、<ruby>高<rt>たか</rt></ruby>さ5ｍにもおよぶ。その<ruby>幽玄<rt>ゆうげん</rt></ruby>な<ruby>姿<rt>すがた</rt></ruby>は<ruby>光<rt>ひかり</rt></ruby>のアート<ruby>作品<rt>さくひん</rt></ruby>とも<ruby>言<rt>い</rt></ruby>えるだろう。<ruby>運行<rt>うんこう</rt></ruby>には<ruby>扇子持<rt>せんすもち</rt></ruby>といわれる<ruby>笛<rt>ふえ</rt></ruby>と<ruby>扇子<rt>せんす</rt></ruby>で<ruby>曳<rt>ひ</rt></ruby>き<ruby>手<rt>て</rt></ruby>に<ruby>合図<rt>あいず</rt></ruby>を<ruby>送<rt>おく</rt></ruby>りねぶたをイキイキと<ruby>躍動的<rt>やくどうてき</rt></ruby>に<ruby>魅<rt>み</rt></ruby>せる<ruby>人<rt>ひと</rt></ruby>や、4t<ruby>近<rt>ちか</rt></ruby>いねぶたを扇子持の合図で<ruby>動<rt>うご</rt></ruby>かす曳き手のほか、<ruby>太鼓<rt>たいこ</rt></ruby>・笛・<ruby>手振<rt>てぶ</rt></ruby>り<ruby>鉦<rt>かね</rt></ruby>からなる<ruby>囃子方<rt>はやしかた</rt></ruby>、お囃子に<ruby>合<rt>あ</rt></ruby>わせて「ラッセ、ラッセ」の<ruby>掛<rt>か</rt></ruby>け<ruby>声<rt>こえ</rt></ruby>で<ruby>跳<rt>は</rt></ruby>ね踊る跳人<rt>はねと</rt></ruby>が参加する。美しい「ねぶた」と人々が<ruby>一体<rt>いったい</rt></ruby>となって<ruby>盛<rt>さか</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がる、<ruby>青森<rt>あおもり</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>だ。
+
 
 ## <a name="日本料理"></a><ruby>日本料理<rt>にほんりょうり</rt></ruby>
 
