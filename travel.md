@@ -212,4 +212,44 @@ Odoru aho ni miru aho. Onaji aho nara odoranya！Dancing fools and watching fool
 
 ## <a name="日本料理"></a><ruby>日本料理<rt>にほんりょうり</rt></ruby>
 
-Coming soon
+日本ではおいしいものがたくさんあります。 <ruby>寿司<rt>すし</rt></ruby>が一番<ruby>人気<rt>にんき</rt></ruby>があるかもしれませんが、日本<ruby>食<rt>しょく</rt></ruby>ははるかに<ruby>多様<rt>たよう</rt></ruby>です。日本にいる<ruby>間<rt>あいだ</rt></ruby>に<ruby>試<rt>ため</rt></ruby>してみなければならないトップ4の<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>をお<ruby>届<rt>とど</rt></ruby>けします。
+
+There's so many delicious things to eat in Japan. Sushi might be the most popular, but Japanese food has so much more variety、we'll give you taste of the top ４ foods that you should try while you're in Japan.
+
+<p align="center">
+  <img src="assets/travel/image014.png" alt="寿司"/>
+</p>
+
+#### 1. <ruby>寿司<rt>すし</rt></ruby>
+
+どこに<ruby>行<rt>い</rt></ruby>くかは<ruby>関係<rt>かんけい</rt></ruby>ありませんが、日本では寿司はずっと<ruby>新鮮<rt>しんせん</rt></ruby>で、どこよりも多様です。 <ruby>季節<rt>きせつ</rt></ruby>の<ruby>美味<rt>おい</rt></ruby>しい<ruby>魚<rt>さかな</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くは、<ruby>日本国外<rt>こくがい</rt></ruby>では<ruby>入手<rt>にゅうしゅ</rt></ruby>できません。 <ruby>例<rt>たと</rt></ruby>えば、たい、あじ、かんぱちは、あなたが食べることができる<ruby>最高<rt>さいこう</rt></ruby>の<ruby>白身魚<rt>しろみざかな</rt></ruby>ですが、<ruby>日本国外<rt>にっぽんこくがい</rt></ruby>ではほとんど<ruby>見<rt>み</rt></ruby>られません。 そして、寿司は、日本では<ruby>一般的<rt>いっぱんてき</rt></ruby>にはるかに安いです（日本の寿司20ドル<ruby>相当<rt>そうとう</rt></ruby>は<ruby>米国<rt>べいこく</rt></ruby>で40ドルを<ruby>超<rt>こ</rt></ruby>えることになります）。
+<ruby>最高<rt>さいこう</rt></ruby>の寿司を<ruby>入手<rt>にゅうしゅ</rt></ruby>する<ruby>場所<rt>ばしょ</rt></ruby>：
+東京にいるなら（<ruby>早起<rt>はやお</rt></ruby>きで<ruby>朝食<rt>ちょうしょく</rt></ruby>に寿司を<ruby>気<rt>き</rt></ruby>にしないでください）、新鮮な寿司を食べるのに<ruby>最適<rt>さいてき</rt></ruby>な場所は、おそらく<ruby>築地<rt>つきじ</rt></ruby>の<ruby>魚市場<rt>うおいちば</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さなレストランの一つです。 ランチに最高のお寿司を食べたいと<ruby>思<rt>おも</rt></ruby>ったら、<ruby>渋谷<rt>しぶや</rt></ruby>で<ruby>梅丘<rt>うめがおか</rt></ruby>寿司の<ruby>美登利総本店<rt>みどりそうほんてん</rt></ruby>をチェックしてください。<ruby>高級<rt>こうきゅう</rt></ruby>寿司を20ドル<ruby>以下<rt>いか</rt></ruby>で<ruby>買<rt>か</rt></ruby>うことができます。
+
+It doesn’t matter where you go, sushi is much fresher and has way more variety in Japan than anywhere else. A lot of the seasonal and most delicious fish just aren’t available outside of Japan. For example the Sea Bream (たい), Saurel (あじ), and Amberjack (かんぱち) are some of the tastiest whitefish you can eat, but are rarely found outside of Japan. And sushi is typically much cheaper in Japan too ($20 equivalent of sushi in Japan will cost you over $40 in the US).
+Where to get the best sushi:
+If you are in Tokyo (and can get up early and don’t mind sushi for breakfast), the best place to get the freshest sushi is probably at one of the many small restaurants in the Tsukiji fish market. If you feel like getting the best bang-for-the-buck sushi for lunch, check out Umegaoka Sushi (梅丘寿司の美登利総本店) in Shibuya where you can a ton of high-quality sushi for less than $20
+
+<p align="center">
+  <img src="assets/travel/image016.jpg" alt="焼肉"/>
+</p>
+
+#### 2. <ruby>焼肉<rt>やきにく</rt></ruby>
+
+<ruby>焼肉<rt>やきにく</rt></ruby>は、日本で最も<ruby>人気<rt>にんき</rt></ruby>のある（そして<ruby>楽<rt>たの</rt></ruby>しい）<ruby>食事<rt>しょくじ</rt></ruby>のひとつです。 日本<ruby>全国<rt>ぜんこく</rt></ruby>にはたくさんの焼肉<ruby>屋<rt>や</rt></ruby>があり、食べ<ruby>放題<rt>ほうだい</rt></ruby>のビュッフェがあります。 しかし、もしあなたが<ruby>本当<rt>ほんとう</rt></ruby>のことを<ruby>望<rt>のぞ</rt></ruby>むならば、日本<ruby>全土<rt>ぜんど</rt></ruby>で<ruby>最高<rt>さいこう</rt></ruby>の<ruby>食<rt>しょく</rt></ruby>を見つけることができるなら、<ruby>飛騨<rt>ひだ</rt></ruby>の高山町に<ruby>向<rt>む</rt></ruby>かう<ruby>必要<rt>ひつよう</rt></ruby>があります。 東京の北にある<ruby>農村部<rt>のうそんぶ</rt></ruby>は、<ruby>伝統的<rt>でんとうてき</rt></ruby>な日本と<ruby>素晴<rt>すば</rt></ruby>らしい温泉を<ruby>体験<rt>たいけん</rt></ruby>するのに<ruby>最適<rt>さいてき</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>だけではなく、<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>飛騨牛<rt>ひだぎゅう</rt></ruby>の<ruby>本場<rt>ほんば</rt></ruby>です。 <ruby>神戸牛<rt>こうべぎゅう</rt></ruby>のようによく<ruby>知<rt>し</rt></ruby>られているわけではありませんが、よだれが出るほど美味しいです。
+
+Japanese BBQ is one of Japan’s most popular (and fun) meals you can have. There are a ton of great Yakiniku restaurants and all-you-can-eat buffets all over Japan. But if you want the real deal, and some of the best meat you can find in all of Japan, you’ve got to head to Hida-Takayama. This sleepy rural area north of Tokyo is not only a great place to experience traditional Japan and amazing hot springs, but is home to the renowned Hida-beef. It’s not as well-known (or pricey) as the Kobe-beef, but it’s still just as much saliva-inducing.
+
+<p align="center">
+  <img src="assets/travel/image017.jpg" alt="串カツ"/>
+</p>
+
+#### 3. <ruby>串<rt>くし</rt></ruby>カツ
+
+フライドフードに<ruby>誰<rt>だれ</rt></ruby>も‘「いいえ」とは<ruby>言<rt>い</rt></ruby>わない！ <ruby>天<rt>てん</rt></ruby>ぷらは、<ruby>最<rt>もっと</rt></ruby>もよく<ruby>知<rt>し</rt></ruby>られたタイプの日本のフライドフードです。 <ruby>私<rt>わたし</rt></ruby>の<ruby>個人的<rt>こじんてき</rt></ruby>な<ruby>好<rt>この</rt></ruby>みは串カツです。<ruby>串焼<rt>くしや</rt></ruby>きは、<ruby>大阪<rt>おおさか</rt></ruby>を<ruby>拠点<rt>きょてん</rt></ruby>にしていますが、日本<ruby>全土<rt>ぜんど</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>がっています。 たくさんの<ruby>種類<rt>しゅるい</rt></ruby>の串カツがあるので、食べるのは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>面白<rt>おもしろ</rt></ruby>いです。 それは<ruby>典型的<rt>てんていてき</rt></ruby>な<ruby>居酒屋<rt>いざかや</rt></ruby>タイプのバーフードとして<ruby>提供<rt>ていきょう</rt></ruby>されていますが、<ruby>最高<rt>さいこう</rt></ruby>の串カツレストランの中には、シェフがプレミアムミートと<ruby>季節<rt>きせつ</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>のマルチコースを<ruby>提供<rt>ていきょう</rt></ruby>する<ruby>場所<rt>ばしょ</rt></ruby>があります。
+最高の串カツを<ruby>取得<rt>しゅとく</rt></ruby>する場所：
+<ruby>疑<rt>うたが</rt></ruby>いの<ruby>余地<rt>よち</rt></ruby>なく、最高の串<ruby>刺<rt>ざ</rt></ruby>しが<ruby>欲<rt>ほ</rt></ruby>しいなら、串カツが<ruby>生<rt>う</rt></ruby>まれた大阪の<ruby>新世界<rt>しんせかい</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう<ruby>必要<rt>ひつよう</rt></ruby>があります。 <ruby>素敵<rt>すてき</rt></ruby>な<ruby>食事<rt>しょくじ</rt></ruby>のためにオリジナルの串カツだるまをチェックしてください。
+
+Who can say no to fried food! Tempura is the most well-known type of fried Japanese food. My personal favorite is the kushikatsu. This style of deep fried skewered meat and vegetables originated in Osaka but can be found all throughout Japan. It’s really fun to eat because there are so many different types of kushikatsu. While it’s typically served as a quick Izakaya type of bar food, some of the best kushikatsu restaurants are where the chef serves you a multi-course selection of premium meat and seasonal vegetables.
+Where to get the best Kushikatsu:
+Without a doubt, if you want the best kushikatsu, you need to head to the Shinsekai area of Osaka where the kushikatsu was born. Check out the original for an amazing meal.
